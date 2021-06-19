@@ -1,0 +1,12 @@
+/**
+ * Title:  App title
+ * Description: Description here
+ * Author: Marzuk Zarir
+ * Date: -- -- --
+ *
+ */
+
+input:focus,
+button:focus {
+    box-shadow: none;
+}
